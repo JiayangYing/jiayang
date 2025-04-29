@@ -1,0 +1,13 @@
+---
+title: My First Blog Post
+published: 2025-04-29
+description: This is the first post of my new Astro blog.
+image: ./cover.jpg
+tags: [Foo, Bar]
+category: Front-end
+draft: false
+---
+
+# My First Blog
+
+Today is 29th April 2025. I officially created my first blog using GitHub Pages, where I will track my progress. In the future, I will use this platform to write my diary instead of using paper.
