@@ -20,7 +20,7 @@ import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 // https://astro.build/config
 export default defineConfig({
 	site: "https://JiayangYing.vercel.app/",
-	base: "jiayang",
+	base: "/jiayang",
 	trailingSlash: "always",
 	integrations: [
 		tailwind({
